@@ -5,7 +5,7 @@ import usaddress
 # RIS MEDIA
 
 baseurl = "https://rismedia.com/newsmaker/"
-currentid = 2209
+currentid = 1
 
 while True:
     try:
