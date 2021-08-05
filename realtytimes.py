@@ -5,8 +5,7 @@ import usaddress
 # REALTY TIMES
 
 baseurl = "https://realtytimes.com/archives/itemlist/user/"
-# currentid = 66469
-currentid = 834161
+currentid = 1
 
 while True:
     try:
